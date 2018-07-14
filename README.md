@@ -30,7 +30,7 @@ The goal was to create a Friend Finder app (essentially a dating app but for fri
 - express NPM Package - https://www.npmjs.com/package/express
 - CORS NPM package - https://www.npmjs.com/package/cors
 
-### Prerequisites
+## Prerequisites
 
 ```
 - Node.js - Download the latest version of Node https://nodejs.org/en/
