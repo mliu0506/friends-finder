@@ -11,16 +11,16 @@ The goal was to create a Friend Finder app (essentially a dating app but for fri
 
 ## Screen Shots
 
-* Home Page
+* Home Page <br>
 ![Screen shot](app/public/images/friends-finder1.png)
 
-* Survey Page
+* Survey Page <br>
 ![Screen shot 2](app/public/images/friends-finder2.png)
 
-* Result Page
+* Result Page <br>
 ![Screen shot 2](app/public/images/friends-finder3.png)
 
-* API DATA
+* API DATA <br>
 ![Screen shot 2](app/public/images/friends-finder4.png)
 
 
